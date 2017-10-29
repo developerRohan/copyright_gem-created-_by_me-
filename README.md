@@ -1,8 +1,6 @@
 # CopyrightGem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/copyright_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+various view specific methods for application I use. it provides copyright helper method to add it below your page .
 
 ## Installation
 
@@ -21,9 +19,9 @@ Or install it yourself as:
     $ gem install copyright_gem
 
 ## Usage
-
-TODO: Write usage instructions here
-
+```
+CopyrightGem::Renderer.copyright "rohan arora" , "ruby on rails developer"
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.

@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{various view specific methods for application I use.}
   spec.description   = %q{provides generated html data for rails application .}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/developerRohan/copyright_gem-created-_by_me-"
   spec.license       = "MIT"
 
 
